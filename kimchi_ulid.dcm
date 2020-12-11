@@ -1,7 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1-292303-6
+F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
+$ENDCMP
+#
 $CMP 54-00176
 F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
+$ENDCMP
+#
+$CMP 54-00177
+F https://tensility.s3-us-west-2.amazonaws.com/uploads/product_doc/document/4373/54-00177.pdf
+$ENDCMP
+#
+$CMP ASFL1-12.288MHZ-EC-T
+F https://abracon.com/Oscillators/ASFL1.pdf
 $ENDCMP
 #
 $CMP C0402C104K9PACTU
@@ -15,10 +27,6 @@ F ~
 $ENDCMP
 #
 $CMP KUSBX-AS1N-B
-F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
-$ENDCMP
-#
-$CMP KUSBX-AS1N-B_copy
 F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
 $ENDCMP
 #
@@ -56,8 +64,16 @@ D Power flag
 K power-flag
 $ENDCMP
 #
+$CMP RC0402JR-072K2L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
 $CMP SGTL5000XNLA3
 F https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf
+$ENDCMP
+#
+$CMP SN74LV1T34DBVRG4
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lv1t34
 $ENDCMP
 #
 $CMP T491A105K010AT
