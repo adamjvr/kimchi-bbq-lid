@@ -20,6 +20,30 @@ $CMP C0402C104K9PACTU
 F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
 $ENDCMP
 #
+$CMP C0603C104M5RACAUTO
+F https://api.kemet.com/component-edge/download/specsheet/C0603C104M5RACAUTO.pdf
+$ENDCMP
+#
+$CMP C0603C105K4PAC7411
+F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
+$CMP CC1206MKX5R5BB107
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_26.pdf
+$ENDCMP
+#
+$CMP CGA3E3X7R1H224K080AB
+F https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP CL10A106MP8NNNC
+F https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf
+$ENDCMP
+#
+$CMP ER-TFT035-6
+F https://www.buydisplay.com/download/manual/ER-TFT035-6_Datasheet.pdf
+$ENDCMP
+#
 $CMP JST-GH-6
 D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
@@ -68,6 +92,14 @@ $CMP RC0402JR-072K2L
 F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
 $ENDCMP
 #
+$CMP RC0603JR-074K7L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RE0603FRE0710RL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RE_105_RoHS_L_6.pdf
+$ENDCMP
+#
 $CMP SGTL5000XNLA3
 F https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf
 $ENDCMP
@@ -82,6 +114,10 @@ $ENDCMP
 #
 $CMP TL3301NF260QG
 F http://spec_sheets.e-switch.com/specs/P010517.pdf
+$ENDCMP
+#
+$CMP TYA4012220M-10
+F https://www.laird.com/sites/default/files/2020-05/TYA4012%20series%20%28Rev%20A%29.pdf
 $ENDCMP
 #
 $CMP VBUS_IN

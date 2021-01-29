@@ -1,0 +1,358 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1ECC
+P 9050 2150
+AR Path="/601A1ECC" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1ECC" Ref="SW3"  Part="1" 
+F 0 "SW3" H 9050 2415 50  0000 C CNN
+F 1 "TL3301NF260QG" H 9050 2324 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 9050 2150 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 9050 2150 50  0001 C CNN
+F 4 "0.38000" H 9150 2400 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 9250 2500 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 9350 2600 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 9450 2700 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 9550 2800 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 9650 2900 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9750 3000 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9850 3100 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9950 3200 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 10050 3300 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 10150 3400 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 11250 4500 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 10250 3500 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 10350 3600 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 10450 3700 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 10550 3800 50  0001 C CNN "Mounting"
+F 20 "4" H 10650 3900 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10750 4000 50  0001 C CNN "Status"
+F 22 "*" H 10850 4100 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10950 4200 50  0001 C CNN "Type"
+F 24 "12VDC" H 11050 4300 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 11150 4450 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 11450 4750 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 11350 4650 50  0001 C CNN "_Value_"
+F 28 "*" H 11450 4750 50  0001 C CNN "Management_ID"
+	1    9050 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1EEB
+P 9050 2550
+AR Path="/601A1EEB" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1EEB" Ref="SW4"  Part="1" 
+F 0 "SW4" H 9050 2815 50  0000 C CNN
+F 1 "TL3301NF260QG" H 9050 2724 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 9050 2550 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 9050 2550 50  0001 C CNN
+F 4 "0.38000" H 9150 2800 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 9250 2900 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 9350 3000 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 9450 3100 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 9550 3200 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 9650 3300 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9750 3400 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9850 3500 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9950 3600 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 10050 3700 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 10150 3800 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 11250 4900 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 10250 3900 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 10350 4000 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 10450 4100 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 10550 4200 50  0001 C CNN "Mounting"
+F 20 "4" H 10650 4300 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10750 4400 50  0001 C CNN "Status"
+F 22 "*" H 10850 4500 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10950 4600 50  0001 C CNN "Type"
+F 24 "12VDC" H 11050 4700 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 11150 4850 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 11450 5150 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 11350 5050 50  0001 C CNN "_Value_"
+F 28 "*" H 11450 5150 50  0001 C CNN "Management_ID"
+	1    9050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1F0A
+P 8300 2550
+AR Path="/601A1F0A" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1F0A" Ref="SW2"  Part="1" 
+F 0 "SW2" H 8300 2815 50  0000 C CNN
+F 1 "TL3301NF260QG" H 8300 2724 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 8300 2550 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 8300 2550 50  0001 C CNN
+F 4 "0.38000" H 8400 2800 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 8500 2900 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 8600 3000 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 8700 3100 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 8800 3200 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 8900 3300 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9000 3400 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9100 3500 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9200 3600 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 9300 3700 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 9400 3800 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 10500 4900 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 9500 3900 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 9600 4000 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 9700 4100 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 9800 4200 50  0001 C CNN "Mounting"
+F 20 "4" H 9900 4300 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10000 4400 50  0001 C CNN "Status"
+F 22 "*" H 10100 4500 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10200 4600 50  0001 C CNN "Type"
+F 24 "12VDC" H 10300 4700 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 10400 4850 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 10700 5150 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 10600 5050 50  0001 C CNN "_Value_"
+F 28 "*" H 10700 5150 50  0001 C CNN "Management_ID"
+	1    8300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1F29
+P 8300 2150
+AR Path="/601A1F29" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1F29" Ref="SW1"  Part="1" 
+F 0 "SW1" H 8300 2415 50  0000 C CNN
+F 1 "TL3301NF260QG" H 8300 2324 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 8300 2150 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 8300 2150 50  0001 C CNN
+F 4 "0.38000" H 8400 2400 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 8500 2500 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 8600 2600 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 8700 2700 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 8800 2800 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 8900 2900 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9000 3000 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9100 3100 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9200 3200 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 9300 3300 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 9400 3400 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 10500 4500 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 9500 3500 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 9600 3600 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 9700 3700 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 9800 3800 50  0001 C CNN "Mounting"
+F 20 "4" H 9900 3900 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10000 4000 50  0001 C CNN "Status"
+F 22 "*" H 10100 4100 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10200 4200 50  0001 C CNN "Type"
+F 24 "12VDC" H 10300 4300 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 10400 4450 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 10700 4750 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 10600 4650 50  0001 C CNN "_Value_"
+F 28 "*" H 10700 4750 50  0001 C CNN "Management_ID"
+	1    8300 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1F48
+P 8350 3300
+AR Path="/601A1F48" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1F48" Ref="SW7"  Part="1" 
+F 0 "SW7" H 8350 3565 50  0000 C CNN
+F 1 "TL3301NF260QG" H 8350 3474 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 8350 3300 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 8350 3300 50  0001 C CNN
+F 4 "0.38000" H 8450 3550 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 8550 3650 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 8650 3750 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 8750 3850 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 8850 3950 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 8950 4050 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9050 4150 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9150 4250 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9250 4350 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 9350 4450 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 9450 4550 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 10550 5650 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 9550 4650 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 9650 4750 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 9750 4850 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 9850 4950 50  0001 C CNN "Mounting"
+F 20 "4" H 9950 5050 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10050 5150 50  0001 C CNN "Status"
+F 22 "*" H 10150 5250 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10250 5350 50  0001 C CNN "Type"
+F 24 "12VDC" H 10350 5450 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 10450 5600 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 10750 5900 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 10650 5800 50  0001 C CNN "_Value_"
+F 28 "*" H 10750 5900 50  0001 C CNN "Management_ID"
+	1    8350 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1F67
+P 8350 3700
+AR Path="/601A1F67" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1F67" Ref="SW8"  Part="1" 
+F 0 "SW8" H 8350 3965 50  0000 C CNN
+F 1 "TL3301NF260QG" H 8350 3874 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 8350 3700 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 8350 3700 50  0001 C CNN
+F 4 "0.38000" H 8450 3950 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 8550 4050 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 8650 4150 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 8750 4250 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 8850 4350 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 8950 4450 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9050 4550 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9150 4650 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9250 4750 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 9350 4850 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 9450 4950 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 10550 6050 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 9550 5050 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 9650 5150 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 9750 5250 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 9850 5350 50  0001 C CNN "Mounting"
+F 20 "4" H 9950 5450 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10050 5550 50  0001 C CNN "Status"
+F 22 "*" H 10150 5650 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10250 5750 50  0001 C CNN "Type"
+F 24 "12VDC" H 10350 5850 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 10450 6000 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 10750 6300 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 10650 6200 50  0001 C CNN "_Value_"
+F 28 "*" H 10750 6300 50  0001 C CNN "Management_ID"
+	1    8350 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1F86
+P 9050 3700
+AR Path="/601A1F86" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1F86" Ref="SW6"  Part="1" 
+F 0 "SW6" H 9050 3965 50  0000 C CNN
+F 1 "TL3301NF260QG" H 9050 3874 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 9050 3700 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 9050 3700 50  0001 C CNN
+F 4 "0.38000" H 9150 3950 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 9250 4050 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 9350 4150 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 9450 4250 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 9550 4350 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 9650 4450 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9750 4550 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9850 4650 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9950 4750 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 10050 4850 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 10150 4950 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 11250 6050 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 10250 5050 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 10350 5150 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 10450 5250 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 10550 5350 50  0001 C CNN "Mounting"
+F 20 "4" H 10650 5450 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10750 5550 50  0001 C CNN "Status"
+F 22 "*" H 10850 5650 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10950 5750 50  0001 C CNN "Type"
+F 24 "12VDC" H 11050 5850 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 11150 6000 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 11450 6300 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 11350 6200 50  0001 C CNN "_Value_"
+F 28 "*" H 11450 6300 50  0001 C CNN "Management_ID"
+	1    9050 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TL3301NF260QG SW?
+U 1 1 601A1FA5
+P 9050 3300
+AR Path="/601A1FA5" Ref="SW?"  Part="1" 
+AR Path="/60193EAA/601A1FA5" Ref="SW5"  Part="1" 
+F 0 "SW5" H 9050 3565 50  0000 C CNN
+F 1 "TL3301NF260QG" H 9050 3474 50  0000 C CNN
+F 2 "kimchi_ulid:TL3301NF260QG" H 9050 3300 50  0001 C CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P010517.pdf" H 9050 3300 50  0001 C CNN
+F 4 "0.38000" H 9150 3550 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 9250 3650 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 9350 3750 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 9450 3850 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 9550 3950 50  0001 C CNN "Cost QTY: 10000"
+F 9 "E-Switch" H 9650 4050 50  0001 C CNN "MFR"
+F 10 "TL3301NF260QG" H 9750 4150 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 9850 4250 50  0001 C CNN "Vendor"
+F 12 "EG1868TR-ND" H 9950 4350 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 10050 4450 50  0001 C CNN "Designer"
+F 14 "4.4mm" H 10150 4550 50  0001 C CNN "Height"
+F 15 "2/28/2020" H 11250 5650 50  0001 C CNN "Date Created"
+F 16 "2/28/2020" H 10250 4650 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 10350 4750 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 10450 4850 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 10550 4950 50  0001 C CNN "Mounting"
+F 20 "4" H 10650 5050 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 10750 5150 50  0001 C CNN "Status"
+F 22 "*" H 10850 5250 50  0001 C CNN "Tolerance"
+F 23 "Mechanical Momentary Switch " H 10950 5350 50  0001 C CNN "Type"
+F 24 "12VDC" H 11050 5450 50  0001 C CNN "Voltage"
+F 25 "Proprietary" H 11150 5600 50  0001 C CNN "Package"
+F 26 "Tactile Switch SPST-NO Top Actuated Surface Mount" H 11450 5900 50  0001 C CNN "Description"
+F 27 "TL3301NF260QG" H 11350 5800 50  0001 C CNN "_Value_"
+F 28 "*" H 11450 5900 50  0001 C CNN "Management_ID"
+	1    9050 3300
+	1    0    0    -1  
+$EndComp
+Text Notes 4450 1350 0    197  ~ 39
+Base Display and Controls
+$Comp
+L kimchi_ulid:ER-TFT035-6 DS1
+U 1 1 601AD2F5
+P 3700 2300
+F 0 "DS1" H 4728 1846 50  0000 L CNN
+F 1 "ER-TFT035-6" H 3750 2500 50  0001 C CNN
+F 2 "kimchi_ulid:ER-TFT035-6_LCD_DISPLAY" H 3500 2300 50  0001 C CNN
+F 3 "https://www.buydisplay.com/download/manual/ER-TFT035-6_Datasheet.pdf" H 3600 2400 50  0001 C CNN
+F 4 "*" H 3800 2550 50  0001 C CNN "Cost QTY: 1"
+F 5 "*" H 3900 2650 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 4000 2750 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 4100 2850 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4200 2950 50  0001 C CNN "Cost QTY: 10000"
+F 9 "EastRising/BuyDisplay.com" H 4300 3050 50  0001 C CNN "MFR"
+F 10 "ER-TFT035-6" H 4400 3150 50  0001 C CNN "MFR#"
+F 11 "EastRising/BuyDisplay.com" H 4500 3250 50  0001 C CNN "Vendor"
+F 12 "ER-TFT035-6" H 4600 3350 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 4700 3450 50  0001 C CNN "Designer"
+F 14 "0.87mm" H 4800 3550 50  0001 C CNN "Height"
+F 15 "1/28/2021" H 5900 4650 50  0001 C CNN "Date Created"
+F 16 "1/28/2021" H 4900 3650 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 5000 3750 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 5100 3850 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 5200 3950 50  0001 C CNN "Mounting"
+F 20 "40" H 5300 4050 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 5400 4150 50  0001 C CNN "Status"
+F 22 "*" H 5500 4250 50  0001 C CNN "Tolerance"
+F 23 "TFT Display" H 5600 4350 50  0001 C CNN "Type"
+F 24 "*" H 5700 4450 50  0001 C CNN "Voltage"
+F 25 "*" H 5800 4600 50  0001 C CNN "Package"
+F 26 "ER-TFT035-6 is 320x480 dots 3.5\" color tft lcd module display with ILI9488 controller" H 6200 5000 50  0001 C CNN "Description"
+F 27 "ER-TFT035-6-LCD-DISPLAY" H 4728 1755 50  0000 L CNN "_Value_"
+F 28 "*" H 6100 4900 50  0001 C CNN "Management_ID"
+	1    3700 2300
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
