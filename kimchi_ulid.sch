@@ -703,15 +703,15 @@ F0 "Audio Codec and Speakers" 50
 F1 "Audio_Codec.sch" 50
 $EndSheet
 $Sheet
-S 6350 5700 2300 1550
-U 602973BC
-F0 "Main Display " 50
-F1 "Main_Display.sch" 50
-$EndSheet
-$Sheet
 S 9100 5700 2200 1550
 U 60193EAA
 F0 "Base Display and Controls" 50
 F1 "Base_Display_Controls.sch" 50
+$EndSheet
+$Sheet
+S 6150 5700 2100 1550
+U 603637CD
+F0 "USB & Accesories" 50
+F1 "USB_IMU_Accesories.sch" 50
 $EndSheet
 $EndSCHEMATC
